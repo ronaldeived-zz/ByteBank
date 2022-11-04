@@ -19,7 +19,6 @@ namespace ByteBank
             }
             set
             {
-                // Escrevo minha lógica de validação de CPF
                 _cpf = value;
             }
         }
